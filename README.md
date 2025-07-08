@@ -1,18 +1,17 @@
 <h1 align="center">Hey, I'm Matt Domingo 👋</h1>
 
 <p align="center">
-  <em>CS student · Full-stack dev · Cloud &amp; security tinkerer · Marketer at heart</em>
+  <em>CS student · Full-stack dev · Cloud &amp; security tinkerer · Math Enthusiast</em>
 </p>
 
 ---
 
 ## 🌱 About Me
-- 🎓  Junior studying **Computer Science at UW–Madison** (minors in Economics, Mathematics, Statistics)  
-- 🛠️  **Infra/Secure Cloud Intern @ TruStage** — automated SharePoint alerts, prototyped Copilot data-scanner, and debugged Azure DevOps pipelines  
+- 🎓  Junior studying **Computer Science at UW–Madison** (minors in Economics, Mathematics, Statistics)
+- 🛠️  **Infra/Secure Cloud Intern @ TruStage** — automated SharePoint alerts, prototyped Copilot data-scanner, and debugged Azure DevOps pipelines
 - 🔍  **AI Analyst @ DataAnnotation** — built Rust micro-services + TypeScript front-ends for large-scale LLM evaluation  
 - 📊  **Software Engineer Intern @ Pharus.ai** — designed BigQuery ETL pipelines &amp; KPI dashboards for small-brand intel  
 - 🖧  **SysOps Intern @ Magnet-Schultz of America** — expanded a 15-server network, drafted NIST 800-53 gap roadmap, aided SAP → Epicor migration  
-- 🤝  Bridging tech &amp; storytelling: I like code that solves problems *and* copy that explains them clearly  
 - 🌟  Leadership: President @ Acacia Fraternity (\$1.1 M managed) · Eagle Scout (100 + hr service project)  
 
 ---
