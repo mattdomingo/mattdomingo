@@ -1,19 +1,19 @@
 <h1 align="center">Hey, I'm Matt Domingo 👋</h1>
 
 <p align="center">
-  <em>CS student · Full-stack dev · Cloud & security tinkerer · Marketer at heart</em>
+  <em>CS student · Full-stack dev · Cloud &amp; security tinkerer · Marketer at heart</em>
 </p>
 
 ---
 
 ## 🌱 About Me
-- 🎓  Junior studying **Computer Science at UW–Madison** (minors in Economics, Mathematics, Statistics) :contentReference[oaicite:8]{index=8}  
-- 🛠️  **Infra/Secure Cloud Intern @ TruStage** — automated SharePoint alerts, prototyped Copilot data-scanner, and debugged Azure DevOps pipelines :contentReference[oaicite:9]{index=9}  
-- 🔍  **AI Analyst @ DataAnnotation** — built Rust micro-services + TypeScript front ends for large-scale LLM evaluation :contentReference[oaicite:10]{index=10}  
-- 📊  **Software Engineer Intern @ Pharus.ai** — designed BigQuery ETL pipelines & KPI dashboards for small-brand intel :contentReference[oaicite:11]{index=11}  
-- 🖧  **SysOps Intern @ Magnet-Schultz of America** — expanded a 15-server network, drafted NIST 800-53 gap roadmap, aided SAP→Epicor migration :contentReference[oaicite:12]{index=12}  
-- 🤝  Bridging tech & storytelling: I like code that solves problems *and* copy that explains them clearly  
-- 🌟  Leadership: President @ Acacia Fraternity ($1.1 M managed) · Eagle Scout (100 + hr service project) :contentReference[oaicite:13]{index=13}  
+- 🎓  Junior studying **Computer Science at UW–Madison** (minors in Economics, Mathematics, Statistics)  
+- 🛠️  **Infra/Secure Cloud Intern @ TruStage** — automated SharePoint alerts, prototyped Copilot data-scanner, and debugged Azure DevOps pipelines  
+- 🔍  **AI Analyst @ DataAnnotation** — built Rust micro-services + TypeScript front-ends for large-scale LLM evaluation  
+- 📊  **Software Engineer Intern @ Pharus.ai** — designed BigQuery ETL pipelines &amp; KPI dashboards for small-brand intel  
+- 🖧  **SysOps Intern @ Magnet-Schultz of America** — expanded a 15-server network, drafted NIST 800-53 gap roadmap, aided SAP → Epicor migration  
+- 🤝  Bridging tech &amp; storytelling: I like code that solves problems *and* copy that explains them clearly  
+- 🌟  Leadership: President @ Acacia Fraternity (\$1.1 M managed) · Eagle Scout (100 + hr service project)  
 
 ---
 
@@ -35,7 +35,7 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
-*Certifications*: AWS CCP, Microsoft Power Automate Essential Training :contentReference[oaicite:14]{index=14}  
+*Certifications*: AWS CCP, Microsoft Power Automate Essential Training  
 
 ---
 
@@ -43,11 +43,11 @@
 
 | Project | Stack | TL;DR |
 | ------- | ----- | ----- |
-| **ShipIt** | Python · React Native | Parses résumés → structured profiles; ranks 1 k + internships in &lt; 2 s; Duolingo-style goals & news feed. |
-| **GravityPong** | C++17 · SDL2 | Classic Pong with gravity wells & power-ups; cross-platform build scripts. |
+| **ShipIt** | Python · React Native | Converts résumés → structured profiles; ranks 1 k + internships in &lt; 2 s; Duolingo-style goals &amp; news feed. |
+| **GravityPong** | C++17 · SDL2 | Classic Pong with gravity wells &amp; power-ups; cross-platform build scripts. |
 | **sheetsProject** | BigQuery · Cloud Scheduler · SQL | ETL pipeline syncing Google Sheets to a data warehouse for real-time dashboards. |
 | **newstrader** | C · REST | CLI that back-tests news sentiment against equity prices. |
-| **taskManager** | React 19 · TypeScript · Vitest | Minimalist Kanban with rule-based sentiment → auto-priority & CI tests. |
+| **taskManager** | React 19 · TypeScript · Vitest | Minimalist Kanban with rule-based sentiment → auto-priority &amp; CI tests. |
 
 > Explore pinned repos or `/projects` for experiments and hack-night ideas.
 
@@ -57,4 +57,3 @@
 - **Email:** mgdomingo@wisc.edu  
 - **LinkedIn:** [matthewgdomingo](https://www.linkedin.com/in/matthewgdomingo/)  
 - **Fun facts:** Poker enthusiast · Occasional DJ · High-adventure camper  
-
