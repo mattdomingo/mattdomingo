@@ -53,7 +53,7 @@
 
 ---
 
-## 💌 Reach Out
+## Reach Out
 - **Email:** mgdomingo@wisc.edu  
 - **LinkedIn:** [matthewgdomingo](https://www.linkedin.com/in/matthewgdomingo/)  
 - **Fun facts:** Poker enthusiast · Occasional DJ · High-adventure camper  
