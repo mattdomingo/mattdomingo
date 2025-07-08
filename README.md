@@ -6,12 +6,12 @@
 
 ---
 
-## 🌱 About Me  
-- 🎓  Junior studying **Computer Science at UW–Madison**  
-- 🖥️  **IT Infrastructure Intern** — automating backups, hardening AD, diagramming networks & shipping WSUS updates  
-- 📈  Growth lead at <strong>Pharus</strong>, helping small brands unlock real-time market data  
-- 💬  Bridging tech & storytelling: I like code that solves problems <em>and</em> copy that explains it clearly  
-- 🤝  Always up for collabs—especially projects mixing software, data, and community engagement  
+##  About Me  
+-   Junior studying **Computer Science at UW–Madison**  
+-   **IT Infrastructure Intern** — automating backups, hardening AD, diagramming networks & shipping WSUS updates  
+-   SWE at <strong>Pharus</strong>, helping small brands unlock real-time market data  
+-   Bridging tech & storytelling: I like code that solves problems <em>and</em> copy that explains it clearly  
+-   Always looking for collabs—especially projects mixing software, data, and community engagement  
 
 ---
 
@@ -24,8 +24,6 @@
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-
-> Ask me why pointer variables deserve the name `msptr` 😉
 
 ---
 
@@ -43,15 +41,8 @@
 
 ---
 
-## 📊 GitHub Stats
-<a href="https://github.com/mattdomingo">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattdomingo&show_icons=true&hide=issues&count_private=true" alt="Matt's GitHub stats" height="140">
-</a>
-
----
-
 ## 💌  Reach Out
-- **LinkedIn:** [linkedin.com/in/matthew-domingo](https://linkedin.com/in/your-handle)  
-- **Email:** matt (at) example dot com  
-- **Fun fact:** I once debugged a flaky switch at 3 AM with just a tone probe and coffee ☕️
+- **LinkedIn:** [linkedin.com/in/matthew-domingo](https://www.linkedin.com/in/matthewgdomingo/)  
+- **Email:** matthew.domingo2022 (at) gmail.com
+- **Fun fact:** I play poker and DJ in my free time
 
