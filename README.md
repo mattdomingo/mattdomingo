@@ -11,8 +11,7 @@
 - 🛠️  **Infra/Secure Cloud Intern @ TruStage** — automated SharePoint alerts, prototyped Copilot data-scanner, and debugged Azure DevOps pipelines
 - 🔍  **AI Analyst @ DataAnnotation** — built Rust micro-services + TypeScript front-ends for large-scale LLM evaluation  
 - 📊  **Software Engineer Intern @ Pharus.ai** — designed BigQuery ETL pipelines &amp; KPI dashboards for small-brand intel  
-- 🖧  **SysOps Intern @ Magnet-Schultz of America** — expanded a 15-server network, drafted NIST 800-53 gap roadmap, aided SAP → Epicor migration  
-- 🌟  Leadership: President @ Acacia Fraternity (\$1.1 M managed) · Eagle Scout (100 + hr service project)  
+- 🖧  **SysOps Intern @ Magnet-Schultz of America** — expanded a 15-server network, drafted NIST 800-53 gap roadmap, aided SAP → Epicor migration   
 
 ---
 
@@ -26,7 +25,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?logo=googlecloud&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
