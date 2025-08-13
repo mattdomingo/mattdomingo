@@ -36,20 +36,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | TL;DR |
-| ------- | ----- | ----- |
-| **ShipIt** | Python · React Native | Converts résumés → structured profiles; ranks 1 k + internships in &lt; 2 s; Duolingo-style goals &amp; news feed. |
-| **GravityPong** | C++17 · SDL2 | Classic Pong with gravity wells &amp; power-ups; cross-platform build scripts. |
-| **sheetsProject** | BigQuery · Cloud Scheduler · SQL | ETL pipeline syncing Google Sheets to a data warehouse for real-time dashboards. |
-| **newstrader** | C · REST | CLI that back-tests news sentiment against equity prices. |
-| **taskManager** | React 19 · TypeScript · Vitest | Minimalist task list with rule-based sentiment → auto-priority &amp; CI tests. |
-
-> Explore pinned repos or `/projects` for experiments and hack-night ideas.
-
----
-
 ## Reach Out
 - **Email:** mgdomingo@wisc.edu  
 - **LinkedIn:** [matthewgdomingo](https://www.linkedin.com/in/matthewgdomingo/)  
