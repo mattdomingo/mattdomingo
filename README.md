@@ -8,6 +8,7 @@
 
 ## 🌱 About Me
 - 🎓  Senior studying **Computer Science at UW–Madison** (minors in Economics, Mathematics, Statistics)
+- 🤝  **Campus Recruiter @ TruStage**
 - 🛠️  **Infra/Secure Cloud Intern @ TruStage** — developed a C# API, automated SharePoint alerts, and prototyped Copilot data-scanner
 - 🔍  **AI Analyst @ DataAnnotation** — built Rust micro-services + TypeScript front-ends for large-scale LLM evaluation  
 - 📊  **Software Engineer Intern @ Pharus.ai** — designed BigQuery ETL pipelines &amp; KPI dashboards for small-brand intel  
