@@ -12,13 +12,14 @@ I am a senior studying Computer Science at the University of Wisconsin–Madison
 ---
 
 ### Experience
-**Software Engineer Intern — TruStage Financial Group**  
-**AI Analyst — DataAnnotation**  
-**Software Engineer Intern — Pharus.ai**  
-**Software & Systems Engineering Intern — Magnet-Schultz of America**  
-**Campus Recruiter — TruStage**  
-**Founding Executive Board — MadCloud**  
-**President — Acacia Fraternity**
+- **AI Analyst @ DataAnnotation**  
+- **Software Engineer Intern @ TruStage Financial Group**  
+- **Software Engineer Intern @ Pharus.ai**  
+- **Software Engineer Intern @ Magnet-Schultz of America**
+ 
+- **Campus Recruiter @ TruStage**  
+- **Founding Executive Board @ MadCloud**  
+- **President @ Acacia Fraternity**
 
 ---
 
@@ -69,7 +70,7 @@ I am a senior studying Computer Science at the University of Wisconsin–Madison
 ---
 
 ### Connect
-Website: mattdomingo.com  
-LinkedIn: linkedin.com/in/matthewgdomingo  
-GitHub: github.com/mattdomingo  
-Email: mgdomingo@wisc.edu / matthew.domingo@gmail.com
+- **Website:** mattdomingo.com  
+- **LinkedIn:** linkedin.com/in/matthewgdomingo  
+- **GitHub:** github.com/mattdomingo  
+- **Email:** mgdomingo@wisc.edu / matthew.domingo@gmail.com
