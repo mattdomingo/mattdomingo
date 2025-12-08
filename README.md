@@ -7,59 +7,43 @@
 ---
 
 ### About Me
-I am a senior studying Computer Science at the University of Wisconsin–Madison, with minors in Economics, Mathematics, and Statistics. My work focuses on distributed systems, software infrastructure, and evaluation methods for applied AI systems.
-
-I balance backend system design with full-stack execution, building products that integrate data pipelines, secure APIs, and high-reliability services.
+I am a senior studying Computer Science at the University of Wisconsin–Madison, with minors in Economics, Mathematics, and Statistics. My work centers on distributed systems, cloud infrastructure, LLM evaluation strategies, and system-level automation. I have experience designing services that balance scalability, maintainability, and measurable engineering impact.
 
 ---
 
 ### Experience
 
 #### Software Engineer Intern — TruStage Financial Group  
-Cloud automation, message pipelines, secure microservices  
+Cloud automation, message systems, secure microservices  
 June 2025 – August 2025  
-- Refactored Azure DevOps pipelines to accelerate build deployments and feature velocity  
-- Developed a C#/.NET service enabling on-call interaction with Azure Service Bus + Blob Storage  
-- Created a Python-based scanner for identifying sensitive data  
-- Supported Agile execution, CI/CD changes, and service rollout
+Worked across platform engineering initiatives involving Azure DevOps pipeline restructuring, deployment automation, and system reliability improvements. Designed and deployed a C#/.NET microservice to interact with Azure Service Bus and Blob Storage, improving operational efficiency for incident-response workflows. Developed a Python-based sensitive-data scanner used for internal governance and compliance initiatives, and contributed to Agile execution and CI/CD rollout.
 
 #### AI Analyst — DataAnnotation  
-Evaluation frameworks for LLM reasoning quality  
+Structured reasoning evaluation and platform development  
 June 2025 – Present  
-- Built a Rust + TS + C++ testing environment for structured model evaluation  
-- Designed measurement criteria for inference quality, chain-of-thought, and retrieval contexts  
-- Ran controlled experiments testing prompts, MCPs, and inference settings
+Developed a full-stack testbed using Rust, TypeScript, and C++ to evaluate model reasoning quality at scale. Designed evaluation criteria that measure factuality, multi-step chain correctness, and prompt-driven behavioral variation. Supported experimentation across models, prompt formats, and inference configurations to surface measurable quality differences in deployed systems.
 
 #### Software Engineer Intern — Pharus.ai  
-Applied analytics and generative automation  
+Model-based analytics and reporting automation  
 January 2025 – May 2025  
-- Automated BigQuery-based ETL flows for durability, quality, and extensibility  
-- Built model preparation workflows via Apps Script and Gemini API  
-- Delivered chatbot-based dashboard navigation via structured context injection
+Worked closely with leadership and customers to automate BigQuery-based pipelines for dynamic reporting, enabling faster operational insight. Built a structured model-context protocol powering interactive KPI querying via an internal chatbot, improving dashboard usability. Implemented ETL logic and schema migrations to streamline ingestion and output consistency.
 
 #### Software & Systems Engineer Intern — Magnet-Schultz of America  
-Enterprise infrastructure and access provisioning  
+Corporate systems, architecture expansion, and secured access  
 May 2024 – August 2024  
-- Hardened network environments and tightened authentication controls  
-- Provisioned AD, Exchange, mapped secured file systems, and improved access routing  
-- Developed network and topology documentation to inform security planning
+Expanded identity, systems, and endpoint environments supporting a distributed workstation footprint. Provisioned AD users, groups, and messaging access while improving routing, secured file-mapping, and authenticated network connectivity. Developed network diagrams, WSUS update baselines, and switching stack configurations that informed rollout planning and cybersecurity posture.
 
 ---
 
 ### Featured Projects
 
 #### QuestGPT
-Full-stack procedural game engine leveraging model-generated world state
-- React + Spring Boot + MySQL + Docker architecture  
-- Token-based session state, relational entity graphs, and pooled connections  
-- Procedural content generation for NPCs, enemies, and item attributes  
-- Deployment automation with separate dev/staging runtime profiles
+Full-stack procedural game engine leveraging model-generated world logic  
+Built using React, Spring Boot, MySQL, and Docker with token-based game sessions, relational persistence, and deployment-ready production layers. Implemented procedural generation for NPCs, enemies, and items using model-guided attributes and game-state mutations.
 
 #### PerfectCandidate
-Automation engine for resume rewriting and match scoring
-- FastAPI/Next.js build with PDF ingestion and metadata extraction  
-- PostgreSQL, MinIO, and microservice partitioning using Compose networking  
-- NLP pipeline using spaCy + PyMuPDF for entity scoring and rewrite recommendations  
+End-to-end automation engine for resume rewriting and match scoring  
+Developed using FastAPI/Next.js with PDF parsing, structured scoring, and rewrite generation. Designed containerized services backed by PostgreSQL and MinIO with modular subsystems for ingest, scoring, generation, and persistent storage.
 
 ---
 
@@ -77,7 +61,7 @@ Automation engine for resume rewriting and match scoring
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
-#### Frameworks / Platforms
+#### Frameworks / Systems
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61dafb)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
@@ -87,21 +71,21 @@ Automation engine for resume rewriting and match scoring
 #### Cloud & Infrastructure
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ---
 
 ### Leadership
-- Campus recruiter supporting engineering hiring pipelines  
-- Founding executive board member of MadCloud, UW-Madison cloud organization  
-- Former Fraternity President responsible for operations, budget oversight, and organization-wide initiatives
+Campus recruiter involved in coordinating engineering hiring processes and candidate guidance.  
+Founding executive board member of MadCloud, UW-Madison's cloud organization, establishing events, logistics frameworks, and communication systems.  
+Former President of Acacia Fraternity, managing operations, housing, finance, and internal structure for a 150-member organization.
 
 ---
 
 ### Connect
-- Website: mattdomingo.com  
-- LinkedIn: linkedin.com/in/matthewgdomingo  
-- GitHub: github.com/mattdomingo  
-- Email: mgdomingo@wisc.edu  
+Website: mattdomingo.com  
+LinkedIn: linkedin.com/in/matthewgdomingo  
+GitHub: github.com/mattdomingo  
+Email: mgdomingo@wisc.edu  
