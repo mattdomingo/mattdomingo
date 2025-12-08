@@ -25,10 +25,16 @@ I am a senior studying Computer Science at the University of Wisconsin–Madison
 ### Featured Projects
 
 #### QuestGPT
-Full-stack procedural game environment leveraging model-generated systems
+Full-stack multi-stage survival game engine with model-generated world logic and persistent player state.  
+Built using React (UI), Spring Boot (backend services), MySQL (persistence engine), and Docker for isolated deployment environments.  
+Implements token-based session tracking, relational entity graphs for world entities, and procedural generation for encounters, enemies, NPC traits, and resource tables.  
+Deployment-ready with environment-based configuration, database pooling, scripts for spin-up, and SSH-tunneled database routing.
 
 #### PerfectCandidate
-Automated resume scoring and rewrite pipeline
+Automated resume scoring, rewrite engine, and structured similarity analysis tool.  
+Developed using FastAPI and Next.js, containerized through Docker Compose with subsystem-level modules for ingest, scoring, generation, and profile-based context storage.  
+Runs NLP pipelines based on spaCy + PyMuPDF to extract named entities, skill-coverage scoring, bullet-quality heuristics, and inline rewritten suggestions with token-level sourcing.  
+Uses PostgreSQL and MinIO for persistent, auditable document storage.
 
 ---
 
@@ -40,7 +46,7 @@ Automated resume scoring and rewrite pipeline
 ![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
@@ -66,4 +72,4 @@ Automated resume scoring and rewrite pipeline
 Website: mattdomingo.com  
 LinkedIn: linkedin.com/in/matthewgdomingo  
 GitHub: github.com/mattdomingo  
-Email: mgdomingo@wisc.edu
+Email: mgdomingo@wisc.edu / matthew.domingo@gmail.com
