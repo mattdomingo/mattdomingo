@@ -11,6 +11,10 @@ I am a senior studying Computer Science at the University of Wisconsin–Madison
 
 ---
 
+### Check out my old Scratch profile(s)
+- https://scratch.mit.edu/users/MGD_1219/
+- https://scratch.mit.edu/users/The_MD/
+
 ### Experience
 - **AI Analyst @ DataAnnotation**  
 - **Software Engineer Intern @ TruStage Financial Group**  
