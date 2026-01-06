@@ -22,7 +22,7 @@ I am a senior studying Computer Science at the University of Wisconsin–Madison
 - **Software Engineer Intern @ Magnet-Schultz of America**
  
 - **Campus Recruiter @ TruStage**  
-- **Founding Executive Board @ MadCloud**  
+- **Executive Board @ MadCloud**  
 - **President @ Acacia Fraternity**
 
 ---
