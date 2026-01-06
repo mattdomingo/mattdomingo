@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm matt</h1>
 
 <p align="center">
-  software engineer focused on secure cloud systems, scalable back-end architecture, and ai-enabled platforms
+  [mattdomingo.com](mattdomingo.com)
 </p>
 
 ---
