@@ -43,9 +43,8 @@ i am a senior studying computer science at the university of wisconsin–madison
 * typescript, nestjs services, redis caching, and postgresql persistence
 * scalable backend split between api and background worker services, with shared typed contracts
 
----
 
-### featured projects
+### featured project
 
 #### questgpt
 
