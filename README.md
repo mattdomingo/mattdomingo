@@ -1,8 +1,8 @@
 <h1 align="center">hey, i'm matt</h1>
 
-<p align="center">
-  [mattdomingo.com](mattdomingo.com)
-</p>
+<h3 align="center">
+  <a href="https://mattdomingo.com">mattdomingo.com</a>
+</h3>
 
 ---
 
