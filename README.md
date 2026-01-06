@@ -1,14 +1,14 @@
-<h1 align="center">hey, i'm matt domingo</h1>
+<h1 align="center">hey, i'm matt</h1>
 
 <p align="center">
-  software engineer focused on secure cloud systems, scalable back-end architectures, and ai-enabled platforms
+  software engineer focused on secure cloud systems, scalable back-end architecture, and ai-enabled platforms
 </p>
 
 ---
 
 ### about me
 
-i am a senior studying computer science at the university of wisconsin–madison with minors in economics, mathematics, and statistics. my interests span distributed systems, software tooling, infrastructure engineering, and ai evaluation.
+i am a senior studying computer science at the university of wisconsin–madison with minors in economics, mathematics, and statistics. my interests span distributed systems, infrastructure engineering, and math/finance.
 
 ---
 
@@ -49,10 +49,10 @@ i am a senior studying computer science at the university of wisconsin–madison
 
 #### questgpt
 
-* full-stack multi-stage survival game engine with model-generated world logic and persistent player state.
-* built using react (ui), spring boot (backend services), mysql (persistence engine), and docker for isolated deployment environments.
-* implements token-based session tracking, relational entity graphs for world entities, and procedural generation for encounters, enemies, npc traits, and resource tables.
-* deployment-ready with environment-based configuration, database pooling, scripts for spin-up, and ssh-tunneled database routing.
+* multi-stage survival game engine with model-generated world logic and persistent player state.
+* react (ui), spring boot (backend services), mysql (persistence engine), and ollama.
+* token session tracking, persistent and concurrent sessions, procedural generation for game elements.
+* deployment-ready via reverse ssh-tunnelling
 
 ---
 
