@@ -52,7 +52,6 @@ i am a senior studying computer science at the university of wisconsin–madison
 
 ### connect
 
-* **website:** mattdomingo.com
-* **linkedin:** linkedin.com/in/matthewgdomingo
-* **github:** github.com/mattdomingo
+* **[website](mattdomingo.com)** 
+* **[linkedin](linkedin.com/in/matthewgdomingo)**
 * **email:** [mgdomingo@wisc.edu](mailto:mgdomingo@wisc.edu) / [matthew.domingo@gmail.com](mailto:matthew.domingo@gmail.com)
