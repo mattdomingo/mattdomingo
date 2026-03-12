@@ -8,7 +8,7 @@
 
 ### about me
 
-i am a senior studying computer science at the university of wisconsin–madison with minors in economics, mathematics, and statistics. my interests span distributed systems, infrastructure engineering, and math/finance.
+i am a senior studying computer science at the university of wisconsin–madison. my interests span distributed systems, infrastructure engineering, and math/finance.
 
 ---
 
